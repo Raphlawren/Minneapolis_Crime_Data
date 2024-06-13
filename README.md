@@ -20,11 +20,10 @@ When we zoom in, we get more detailed location information on where the  crimes 
 
 
 
-We can see in the image below that there was 146 crimes happened on Dupont Avenue South Street.
+We can see in the image below that 146 crimes happened on Dupont Avenue South Street
 ![Screenshot 2024-06-13 at 8 09 44 PM](https://github.com/Raphlawren/Minneapolis_Crime_Data/assets/130583230/da0ad1db-ca1a-4114-b017-095d935a51a0)
 
-
-We can zoom in deeper at what kind of crimes happened there. When we tap on the blue marker, the name of the crimes committed will appear.
+When we drill in further and click on the arrow, we get the details of the offences commited.
 ![Screenshot 2024-06-13 at 8 11 46 PM](https://github.com/Raphlawren/Minneapolis_Crime_Data/assets/130583230/92247260-cf31-415a-a12c-f22ebf623a57)
 
 
@@ -49,3 +48,4 @@ Most of the crimes was Theft from Motor Vehicle, Part of Motor Vehicle theft,  D
 6. The government should increase the patrol of the police in areas with high risk of crime.
 7. Residents in the area should park their vehicle in a well secured area and should install anti theft security in the cars, it is advisable for vehicles should have hidden tracker in them.
 8. valuables should not be left in plain sight in the car.
+
