@@ -43,7 +43,7 @@ Most of the crimes was Theft from Motor Vehicle, Part of Motor Vehicle theft,  D
 1. The data suggests that the city or state could invest more resources in securing Dupont Avenue South community due to the high rate of theft in the area.
 2. ⁠Security firms could benefit from advertising their security services at a reduced cost in the area.
 3.⁠ Data infers that Dupont Avenue South is not an appropriate environment for raising kids or a family setting.
-4. The government can inplement stricter penalties for crime like Vehicle Theft, Burglary.
+4. The government should implement stricter penalties for crime like Vehicle Theft, Burglary.
 5. There should be more security cameras installed, including the parking lot.
 6. The government should increase the patrol of the police in areas with high risk of crime.
 7. Residents in the area should park their vehicle in a well secured area and should install anti theft security in the cars, it is advisable for vehicles should have hidden tracker in them.
