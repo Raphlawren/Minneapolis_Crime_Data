@@ -1,5 +1,8 @@
 ## Minneapolis Crime Data Visualization For Year 2019-2024
 
+
+
+
 Minneapolis is one of the cities in Minnesota with high crime rates, so I visualized Minneapolis' crime dataset from year 2019-2024, which I got from Minneapolis government's open data website; there were 284416 crimes recorded.
 
 
@@ -28,4 +31,7 @@ When we tap on the blue marker, the name of the crimes committed will appear
 
 Most of the crimes was Theft from Motor Vehicle, Part of Motor Vehicle theft,  Destruction of property.
 
-Conclusion: We can advice business owners who want to invest in Motor Vehicle business in that street that setting up Businesses in that area is not safe. It is not safe for car owners to park their vehicle in that street as well 
+Conclusion: We can advice business owners who want to invest in Motor Vehicle business in that street that setting up Businesses in that area is not safe. It is not safe for car owners to park their vehicle in that street as well.
+
+
+### If the maps was not showing, you can view it [here](https://nbviewer.org/github/Raphlawren/Minneapolis_Crime_Data/blob/main/Minnesota_Crime_rate_Visuals.ipynb)
