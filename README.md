@@ -36,7 +36,16 @@ We can zoom in deeper at what kind of crimes happened there. When we tap on the 
 
 
 
-Most of the crimes was Theft from Motor Vehicle, Part of Motor Vehicle theft,  Destruction of property.
+Most of the crimes was Theft from Motor Vehicle, Part of Motor Vehicle theft,  Destruction of property, Motor Vehicle Theft.
 
-Conclusion: We can advice business owners who want to invest in Motor Vehicle business in that street that setting up Businesses in that area is not safe. It is not safe for car owners to park their vehicle in that street as well.
 
+#### Deductions: 
+
+1. The data suggests that the city or state could invest more resources in securing Dupont Avenue South community due to the high rate of theft in the area.
+2. ⁠Security firms could benefit from advertising their security services at a reduced cost in the area.
+3.⁠ Data infers that Dupont Avenue South is not an appropriate environment for raising kids or a family setting.
+4. The government can inplement stricter penalties for crime like Vehicle Theft, Burglary.
+5. There should be more security cameras installed, including the parking lot.
+6. The government should increase the patrol of the police in areas with high risk of crime.
+7. Residents in the area should park their vehicle in a well secured area and should install anti theft security in the cars, it is advisable for vehicles should have hidden tracker in them.
+8. valuables should not be left in plain sight in the car.
