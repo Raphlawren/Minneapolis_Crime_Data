@@ -5,7 +5,7 @@
 Minneapolis is one of the cities in Minnesota with high crime rates, so I visualized Minneapolis' crime dataset from year 2019-2024, which I got from Minneapolis government's open data website; there were 284416 crimes recorded.
 
 
-Where I visualized the first 1000 crime scenes of the dataset on a leaflet map with python.
+Here I visualized the first 1000 crime scenes of the dataset on a leaflet map with python.
 ![Screenshot 2024-06-13 at 7 54 55 PM](https://github.com/Raphlawren/Minneapolis_Crime_Data/assets/130583230/efd0d465-9dfe-497b-af7f-bf75c2e41d7f)
 
 
