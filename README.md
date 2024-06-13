@@ -9,7 +9,7 @@ Here I visualized the first 1000 crime scenes of the dataset on a leaflet map wi
 ![Screenshot 2024-06-13 at 7 54 55 PM](https://github.com/Raphlawren/Minneapolis_Crime_Data/assets/130583230/efd0d465-9dfe-497b-af7f-bf75c2e41d7f)
 
 
-The more you zoom in, the more you will get the exact location where the crime happened.
+When we zoom in, we get more detailed location information on where the  crimes occurred.
 
 ![Screenshot 2024-06-13 at 7 58 13 PM](https://github.com/Raphlawren/Minneapolis_Crime_Data/assets/130583230/99765a7d-d1cf-4c37-9329-1d201276e7ba)
 
